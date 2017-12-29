@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TowerDefense\_Script\HPBase.cs">
+    <Files>
+      <File FileName="Assets\TowerDefense\_Script\StartTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\TowerDefense\_Script\WaveSpawn.cs" Line="36" Column="12" />
+      <File FileName="Assets\TowerDefense\_Script\Menu\PauseFunction.cs" Line="1" Column="1" />
+      <File FileName="Assets\TowerDefense\_Script\Menu\Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\TowerDefense\_Script\HPBase.cs" Line="30" Column="47" />
+      <File FileName="Assets\TowerDefense\_Script\GlobalVariable.cs" Line="1" Column="1" />
+      <File FileName="Assets\TowerDefense\_Script\TowerPlace.cs" Line="1" Column="1" />
+      <File FileName="Assets\TowerDefense\_Script\bulletTower.cs" Line="1" Column="1" />
+      <File FileName="Assets\TowerDefense\_Script\TowerTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\TowerDefense\_Script\Tower.cs" Line="1" Column="1" />
+      <File FileName="Assets\TowerDefense\_Script\MoveToWayPoints.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
